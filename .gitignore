@@ -1,0 +1,7 @@
+
+# Ignore Mac system files
+.DS_Store
+.DS_Store?
+
+# ignore files related to API keys
+api_keys.py
