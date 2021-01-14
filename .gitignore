@@ -5,3 +5,6 @@
 
 # ignore files related to API keys
 api_keys.py
+
+# ignore cache folder
+__pycache__/
