@@ -3,9 +3,7 @@
 
 ## Task
 
-
-
-
+To analyse weather data while considering the question: "What's the weather like as we approach the equator?". 
 
 ## Tools and Technologies
 
